@@ -6,7 +6,7 @@
 
 🌱 **Research focus**: Graph neural networks, Kernel methods, and Gaussian Process regression for interatomic potentials and NMR parameter models
 
-⚡ **Specialty**: Integrating quantum mechanics and molecular dynamics with ML for predictive modeling
+⚡ **Main interest**: Integrating quantum mechanics and molecular dynamics with ML for predictive modeling
 
 🎓 **Education**: Ph.D. in Physics (Le Mans Université, France) - ["Structural Modeling of Oxygen-Fluorine Ordering in Transition Metal Inorganic Oxyfluorides"](https://theses.hal.science/tel-04412685/)
 
