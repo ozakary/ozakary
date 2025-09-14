@@ -8,7 +8,7 @@
 
 ⚡ **Main interest**: Integrating quantum mechanics and molecular dynamics with ML for predictive modeling
 
-🎓 **Education**: Ph.D. in Physics (Le Mans Université, France) - ["Structural Modeling of Oxygen-Fluorine Ordering in Transition Metal Inorganic Oxyfluorides"](https://theses.hal.science/tel-04412685/) - [PhD Defense Opponents](https://theses.fr/2023LEMA1026)
+🎓 **Education**: Ph.D. in Physics (Le Mans Université, France) - ["Structural Modeling of Oxygen-Fluorine Ordering in Transition Metal Inorganic Oxyfluorides"](https://theses.hal.science/tel-04412685/) - [PhD Defense Committee](https://theses.fr/2023LEMA1026)
 
 👨‍🔬 **Working with**: Dr. Perttu Lantto @ NMR Research Unit
 
