@@ -17,4 +17,4 @@
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7793-3306)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ouail-zakary-a63a521b9/)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ozakary&layout=compact&theme=dark)](https://github.com/DenverCoder1/github-readme-stats)
+![Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ozakary&theme=dark&layout=compact)
