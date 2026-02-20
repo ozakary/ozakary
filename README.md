@@ -2,7 +2,7 @@
 
 ## Computational Chemist | Postdoc @ University of Oulu, Finland 🇫🇮
 
-🔭 **Currently working on**: Machine learning approaches for molecular systems under real physicochemical conditions
+🔭 **Currently working on**: Machine learning approaches for molecular systems and materials under real physicochemical conditions
 
 🌱 **Research focus**: Graph neural networks, Kernel methods, and Gaussian Process regression for interatomic potentials and NMR parameter models
 
