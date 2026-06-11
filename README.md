@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Ouail Zakary
 
-## Computational Chemist | Postdoc @ University of Oulu, Finland 🇫🇮
+## Computational Physical Chemist | Postdoc @ University of Oulu, Finland 🇫🇮
 
 🔭 **Currently working on**: Machine learning approaches for molecular systems and materials under real physicochemical conditions
 
