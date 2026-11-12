@@ -10,7 +10,7 @@
 
 🎓 **Education**: Ph.D. in Physics (Le Mans Université, France) - ["Structural Modeling of Oxygen-Fluorine Ordering in Transition Metal Inorganic Oxyfluorides"](https://theses.hal.science/tel-04412685/) - [PhD Defense Committee](https://theses.fr/2023LEMA1026)
 
-👨‍🔬 **Working with**: Assoc. Prof. Antti Karttunen, Asst. Prof. Miguel Caro, and Prof. Kari Laasonen @ CMAT, Aalto University
+👨‍🔬 **Working with**: Assoc. Prof. Antti Karttunen and Asst. Prof. Miguel Caro @ CMAT, Aalto University
 
 ### Connect with me:
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=kKUFATIAAAAJ&hl=en)
